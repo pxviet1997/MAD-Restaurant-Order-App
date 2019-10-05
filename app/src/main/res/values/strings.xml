@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    <string name="title_activity_meal_menu2">MealMenu2</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_meal_menu">MealMenu</string>
+    <string name="order">ORDER</string>
+</resources>

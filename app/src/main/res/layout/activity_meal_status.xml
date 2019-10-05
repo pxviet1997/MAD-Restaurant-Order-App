@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/spaceGrey"
+    tools:context=".MealStatusActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="202dp"
+        tools:layout_editor_absoluteY="42dp"
+        tools:ignore="MissingConstraints">
+
+        <FrameLayout
+            android:id="@+id/meal_status1"
+            android:layout_width="604dp"
+            android:layout_height="87dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="31dp">
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/meal_status2"
+            android:layout_width="604dp"
+            android:layout_height="87dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="149dp">
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/meal_status3"
+            android:layout_width="604dp"
+            android:layout_height="87dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="267dp">
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/meal_status4"
+            android:layout_width="604dp"
+            android:layout_height="87dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="385dp">
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/meal_status5"
+            android:layout_width="604dp"
+            android:layout_height="87dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="503dp">
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/meal_status6"
+            android:layout_width="604dp"
+            android:layout_height="87dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="621dp">
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/meal_status7"
+            android:layout_width="604dp"
+            android:layout_height="87dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="739dp">
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/meal_status8"
+            android:layout_width="604dp"
+            android:layout_height="87dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="857dp">
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/meal_status9"
+            android:layout_width="604dp"
+            android:layout_height="87dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="975dp">
+
+        </FrameLayout>
+    </RelativeLayout>
+</ScrollView>

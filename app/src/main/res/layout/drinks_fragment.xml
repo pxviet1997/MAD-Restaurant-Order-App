@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/spaceGrey">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="1025dp"
+        tools:ignore="MissingConstraints">
+
+        <FrameLayout
+            android:id="@+id/drinks_fragment_container3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="26dp"
+            android:layout_marginTop="13dp"
+            android:layout_marginEnd="26dp"
+            android:layout_marginBottom="13dp">
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/drinks_fragment_container1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="26dp"
+            android:layout_marginTop="13dp"
+            android:layout_marginEnd="26dp"
+            android:layout_marginBottom="13dp">
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/drinks_fragment_container2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="26dp"
+            android:layout_marginTop="13dp"
+            android:layout_marginEnd="26dp"
+            android:layout_marginBottom="13dp">
+
+        </FrameLayout>
+
+    </LinearLayout>
+
+
+</android.support.constraint.ConstraintLayout>

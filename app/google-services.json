@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "272342288437",
+    "firebase_url": "https://restaurant-project-2fdfa.firebaseio.com",
+    "project_id": "restaurant-project-2fdfa",
+    "storage_bucket": "restaurant-project-2fdfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272342288437:android:bce33a881b8fa998",
+        "android_client_info": {
+          "package_name": "com.example.kevin.managerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272342288437-2ah6eompjgnoohah6o1kbm8m0bodjafe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kevin.managerapp",
+            "certificate_hash": "c5c1a14c2d842cae58cff06859c6a5aeb9e791eb"
+          }
+        },
+        {
+          "client_id": "272342288437-3rdm9sirgdnomiomqeumnbp4m8el5788.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE-HeCT6ziJ2ooB3QssXox0NtOSsUF-cA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272342288437-3rdm9sirgdnomiomqeumnbp4m8el5788.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272342288437:android:2b9f92dbbb605b2a",
+        "android_client_info": {
+          "package_name": "com.example.vietpham.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272342288437-vvp7a0qj5t4r8ctk57qst970u65e6tsa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vietpham.restaurant",
+            "certificate_hash": "c5c1a14c2d842cae58cff06859c6a5aeb9e791eb"
+          }
+        },
+        {
+          "client_id": "272342288437-3rdm9sirgdnomiomqeumnbp4m8el5788.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE-HeCT6ziJ2ooB3QssXox0NtOSsUF-cA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272342288437-3rdm9sirgdnomiomqeumnbp4m8el5788.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
